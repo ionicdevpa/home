@@ -3,7 +3,6 @@
 ## Como contribuir com a página?
 
 ```
-
 1 - Acesse http://ionicdevpa.github.io/home/;
 2 - Clique em publique via github;
 3 - Copie o link https://github.com/ionicdevpa/home.git
@@ -25,7 +24,8 @@
 ```
 
 ```
-Após, acessar o repósitório ome do seu github, clicar em new pull request, preencher o titulo e informar o que está 
-sendo comitado para ajudar os adms e clicar em "Create pull request". Feito isso, você pode aguardar, ou entrar em 
+Após, acessar o repósitório ome do seu github, clicar em new pull request, <br />
+preencher o titulo e informar o que está sendo comitado para ajudar os adms e <br />
+clicar em "Create pull request". Feito isso, você pode aguardar, ou entrar em <br />
 contato pelos canais disponíveis avisando da sua conribuição para que ela seja aceita com agilidade. 
 ```
