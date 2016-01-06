@@ -18,5 +18,7 @@
 12 - Git pull origin gh-pages
 13 - No seu editor de preferencia faça as edições
 14 - No terminal, git status para verificar se suas alterações foram salvas
-15 - 
+15 - git add para adicionar
+16 - Comite as modificações
+17 - git push origin gh-pages para enviar as modificações para o branch gh-pages
 ```
