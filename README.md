@@ -1,9 +1,8 @@
-# home
+# Página colaborativa IONICDEVPA
 
 ## Como contribuir com a página?
 
 ```
-
 1 - Acesse http://ionicdevpa.github.io/home/;
 2 - Clique em publique via github;
 3 - Copie o link https://github.com/ionicdevpa/home.git
@@ -22,4 +21,11 @@
 16 - Comite as modificações
 17 - git checkout -b gh-pages para acessar o branch correto
 18 - git push origin gh-pages para enviar as modificações para o branch gh-pages
+```
+
+```
+Após, acessar o repósitório ome do seu github, clicar em new pull request, 
+preencher o titulo e informar o que está sendo comitado para ajudar os adms e 
+clicar em "Create pull request". Feito isso, você pode aguardar, ou entrar em 
+contato pelos canais disponíveis avisando da sua conribuição para que ela seja aceita com agilidade. 
 ```
