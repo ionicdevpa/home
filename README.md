@@ -24,8 +24,8 @@
 ```
 
 ```
-Após, acessar o repósitório ome do seu github, clicar em new pull request, <br />
-preencher o titulo e informar o que está sendo comitado para ajudar os adms e <br />
-clicar em "Create pull request". Feito isso, você pode aguardar, ou entrar em <br />
+Após, acessar o repósitório ome do seu github, clicar em new pull request, 
+preencher o titulo e informar o que está sendo comitado para ajudar os adms e 
+clicar em "Create pull request". Feito isso, você pode aguardar, ou entrar em 
 contato pelos canais disponíveis avisando da sua conribuição para que ela seja aceita com agilidade. 
 ```
