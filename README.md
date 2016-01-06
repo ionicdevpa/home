@@ -1,5 +1,8 @@
 # Página colaborativa IONICDEVPA
 
+[![Code Climate](https://codeclimate.com/repos/568c978b59754f3fe6002ebc/badges/cfc8eabc1b58d8333461/gpa.svg)](https://codeclimate.com/repos/568c978b59754f3fe6002ebc/feed)
+[![Issue Count](https://codeclimate.com/repos/568c978b59754f3fe6002ebc/badges/cfc8eabc1b58d8333461/issue_count.svg)](https://codeclimate.com/repos/568c978b59754f3fe6002ebc/feed)
+
 ## Como contribuir com a página?
 
 ```
