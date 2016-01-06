@@ -20,5 +20,6 @@
 14 - No terminal, git status para verificar se suas alterações foram salvas
 15 - git add para adicionar
 16 - Comite as modificações
-17 - git push origin gh-pages para enviar as modificações para o branch gh-pages
+17 - git checkout -b gh-pages para acessar o branch correto
+18 - git push origin gh-pages para enviar as modificações para o branch gh-pages
 ```
